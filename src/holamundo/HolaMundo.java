@@ -9,7 +9,7 @@ public class HolaMundo {
         int num1=2;
         double num2=3.5, suma;
         suma = num1 + num2;
-        System.out.println("Suma = "+suma);
+        System.out.println("Suma = " +suma);
     }
     
 }
